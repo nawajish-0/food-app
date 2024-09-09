@@ -1,2 +1,2 @@
 # food-app
-A landing page using tailwindcss.
+home page using tailwindcss.
