@@ -10,5 +10,5 @@ cd food-app
 
 Open *index.html* in your web browser to launch the app.
 
-#link
+# link
 https://food-app-pi-liard.vercel.app/
